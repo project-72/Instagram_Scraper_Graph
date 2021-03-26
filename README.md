@@ -1,4 +1,6 @@
-There are two Python files here, each containing a custom Instagram class.
+ And see how to at https://understandingdata.com/instagram-community-detection-with-machine-learning/
+ 
+ There are two Python files here, each containing a custom Instagram class.
 
 You will need to have an Instagram account to use InstagramScraper()
 
